@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Cypress output
+cypress/videos/
+cypress/screenshots/
+cypress/results/
+cypress/downloads/
+runner-results/
+.parallel-weights.json
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+desktop.ini
+
+# script files
+runThreeTimes.js
+bugTracking.js
+testNodeMailer.js
