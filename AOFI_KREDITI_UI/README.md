@@ -312,4 +312,4 @@ Every `npm run cy:*` command runs `npm run clean` before tests, which deletes:
 
 ## Author
 
-**Nikola Nikolić** - QA Automation Engineer
+[**Nikola Nikolić** - QA Automation Engineer](https://github.com/Gzingo)
